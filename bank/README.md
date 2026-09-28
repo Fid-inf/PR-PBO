@@ -8,15 +8,6 @@
 - Melakukan setor dan tarik tunai.
 - Melihat informasi pelanggan dan saldo rekening.
 
-## Cara Menjalankan
-
-Pastikan Java JDK sudah terpasang. Dari folder proyek, jalankan:
-
-```bash
-javac -d bin src/Account.java src/Bank.java src/Customer.java src/Main.java
-java -cp bin Main
-```
-
 Aplikasi dimulai dengan pelanggan contoh John Doe dan saldo awal `$1000.0`.
 
 ## Hubungan Antar Kelas
