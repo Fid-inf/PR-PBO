@@ -1,6 +1,6 @@
 ## Overview
 
-This project is a Java-based console application designed to explore and demonstrate the fundamental concepts of Object-Oriented Programming (OOP)—specifically **Encapsulation**, **Inheritance**, and **Polymorphism**—based on pages 63–66 of the course materials.
+This project is a Java-based console application designed to explore and demonstrate the fundamental concepts of Object-Oriented Programming (OOP) specifically **Encapsulation**, **Inheritance**, and **Polymorphism** based on pages 63–66 of the course materials.
 
 The application models geometric 2D and 3D shapes using a structured class hierarchy (`Bentuk`, `BujurSangkar`, `Lingkaran`, and `Silinder`). It incorporates an interactive Command Line Interface (CLI) built with `java.util.Scanner` to enable dynamic creation, storage, and calculation of geometric properties.
 
